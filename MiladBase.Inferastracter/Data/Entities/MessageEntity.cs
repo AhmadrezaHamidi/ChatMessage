@@ -1,16 +1,5 @@
-using System;
-using System.Collections.Generic;
-
-namespace MiladBass.Core.Domain
+namespace DefaultNamespace
 {
-    public enum ParticipantRoleEnum
-    {
-        Member,
-        Creator,
-        Admin
-    }
-
-
     public class MessageEntity : EntityBase
     {
         public MessageEntity(string threadId, string body, string ownerId,
