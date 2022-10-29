@@ -1,0 +1,15 @@
+C:\Users\mahmoudzadeh\Desktop\ahmad\GitHub\ChatMesssageBase2\AhmadBase\AhmadBase.Inferastracter\bin\Debug\net5.0\AhmadBase.Inferastracter.deps.json
+C:\Users\mahmoudzadeh\Desktop\ahmad\GitHub\ChatMesssageBase2\AhmadBase\AhmadBase.Inferastracter\bin\Debug\net5.0\AhmadBase.Inferastracter.dll
+C:\Users\mahmoudzadeh\Desktop\ahmad\GitHub\ChatMesssageBase2\AhmadBase\AhmadBase.Inferastracter\bin\Debug\net5.0\ref\AhmadBase.Inferastracter.dll
+C:\Users\mahmoudzadeh\Desktop\ahmad\GitHub\ChatMesssageBase2\AhmadBase\AhmadBase.Inferastracter\bin\Debug\net5.0\AhmadBase.Inferastracter.pdb
+C:\Users\mahmoudzadeh\Desktop\ahmad\GitHub\ChatMesssageBase2\AhmadBase\AhmadBase.Inferastracter\obj\Debug\net5.0\AhmadBase.Inferastracter.csprojAssemblyReference.cache
+C:\Users\mahmoudzadeh\Desktop\ahmad\GitHub\ChatMesssageBase2\AhmadBase\AhmadBase.Inferastracter\obj\Debug\net5.0\AhmadBase.Inferastracter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahmoudzadeh\Desktop\ahmad\GitHub\ChatMesssageBase2\AhmadBase\AhmadBase.Inferastracter\obj\Debug\net5.0\AhmadBase.Inferastracter.AssemblyInfoInputs.cache
+C:\Users\mahmoudzadeh\Desktop\ahmad\GitHub\ChatMesssageBase2\AhmadBase\AhmadBase.Inferastracter\obj\Debug\net5.0\AhmadBase.Inferastracter.AssemblyInfo.cs
+C:\Users\mahmoudzadeh\Desktop\ahmad\GitHub\ChatMesssageBase2\AhmadBase\AhmadBase.Inferastracter\obj\Debug\net5.0\AhmadBase.Inferastracter.csproj.CoreCompileInputs.cache
+C:\Users\mahmoudzadeh\Desktop\ahmad\GitHub\ChatMesssageBase2\AhmadBase\AhmadBase.Inferastracter\obj\Debug\net5.0\AhmadBase.Inferastracter.dll
+C:\Users\mahmoudzadeh\Desktop\ahmad\GitHub\ChatMesssageBase2\AhmadBase\AhmadBase.Inferastracter\obj\Debug\net5.0\ref\AhmadBase.Inferastracter.dll
+C:\Users\mahmoudzadeh\Desktop\ahmad\GitHub\ChatMesssageBase2\AhmadBase\AhmadBase.Inferastracter\obj\Debug\net5.0\AhmadBase.Inferastracter.pdb
+C:\Users\mahmoudzadeh\Desktop\ahmad\GitHub\ChatMesssageBase2\AhmadBase\AhmadBase.Inferastracter\bin\Debug\net5.0\AhmadBase.Inferastracter.runtimeconfig.json
+C:\Users\mahmoudzadeh\Desktop\ahmad\GitHub\ChatMesssageBase2\AhmadBase\AhmadBase.Inferastracter\bin\Debug\net5.0\AhmadBase.Inferastracter.runtimeconfig.dev.json
+C:\Users\mahmoudzadeh\Desktop\ahmad\GitHub\ChatMesssageBase2\AhmadBase\AhmadBase.Inferastracter\obj\Debug\net5.0\AhmadBase.Inferastracter.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+
+
+	<ItemGroup>
+		<PackageReference Include="MediatR" Version="7.0.0" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.AutoHistory" Version="5.0.8" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="5.0.17" />
+	</ItemGroup>
+
+
+
+	<ItemGroup>
+	  <Folder Include="Commands\" />
+	  <Folder Include="Dtos\Enums\" />
+	</ItemGroup>
+
+
+</Project>

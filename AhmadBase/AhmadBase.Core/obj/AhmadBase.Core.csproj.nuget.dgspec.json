@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mahmoudzadeh\\Desktop\\ahmad\\GitHub\\ChatMesssageBase2\\AhmadBase\\AhmadBase.Core\\AhmadBase.Core.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mahmoudzadeh\\Desktop\\ahmad\\GitHub\\ChatMesssageBase2\\AhmadBase\\AhmadBase.Core\\AhmadBase.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mahmoudzadeh\\Desktop\\ahmad\\GitHub\\ChatMesssageBase2\\AhmadBase\\AhmadBase.Core\\AhmadBase.Core.csproj",
+        "projectName": "AhmadBase.Core",
+        "projectPath": "C:\\Users\\mahmoudzadeh\\Desktop\\ahmad\\GitHub\\ChatMesssageBase2\\AhmadBase\\AhmadBase.Core\\AhmadBase.Core.csproj",
+        "packagesPath": "C:\\Users\\mahmoudzadeh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mahmoudzadeh\\Desktop\\ahmad\\GitHub\\ChatMesssageBase2\\AhmadBase\\AhmadBase.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mahmoudzadeh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.AutoHistory": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
