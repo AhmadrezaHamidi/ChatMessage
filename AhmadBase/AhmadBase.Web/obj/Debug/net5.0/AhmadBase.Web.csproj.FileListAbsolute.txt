@@ -1,7 +1,0 @@
-C:\Users\mahmoudzadeh\Desktop\ahmad\GitHub\ChatMesssageBase2\AhmadBase\AhmadBase.Web\obj\Debug\net5.0\AhmadBase.Web.csprojAssemblyReference.cache
-C:\Users\mahmoudzadeh\Desktop\ahmad\GitHub\ChatMesssageBase2\AhmadBase\AhmadBase.Web\obj\Debug\net5.0\AhmadBase.Web.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\mahmoudzadeh\Desktop\ahmad\GitHub\ChatMesssageBase2\AhmadBase\AhmadBase.Web\obj\Debug\net5.0\AhmadBase.Web.AssemblyInfoInputs.cache
-C:\Users\mahmoudzadeh\Desktop\ahmad\GitHub\ChatMesssageBase2\AhmadBase\AhmadBase.Web\obj\Debug\net5.0\AhmadBase.Web.AssemblyInfo.cs
-C:\Users\mahmoudzadeh\Desktop\ahmad\GitHub\ChatMesssageBase2\AhmadBase\AhmadBase.Web\obj\Debug\net5.0\AhmadBase.Web.csproj.CoreCompileInputs.cache
-C:\Users\mahmoudzadeh\Desktop\ahmad\GitHub\ChatMesssageBase2\AhmadBase\AhmadBase.Web\obj\Debug\net5.0\AhmadBase.Web.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\mahmoudzadeh\Desktop\ahmad\GitHub\ChatMesssageBase2\AhmadBase\AhmadBase.Web\obj\Debug\net5.0\AhmadBase.Web.MvcApplicationPartsAssemblyInfo.cache

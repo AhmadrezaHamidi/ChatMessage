@@ -1,0 +1,15 @@
+C:\Users\mahmoudzadeh\Desktop\ahmad\GitHub\ChatMesssageBase2\AhmadBase\AhmadBase.Core\obj\Debug\net5.0\AhmadBase.Core.csprojAssemblyReference.cache
+C:\Users\mahmoudzadeh\Desktop\ahmad\GitHub\ChatMesssageBase2\AhmadBase\AhmadBase.Core\obj\Debug\net5.0\AhmadBase.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahmoudzadeh\Desktop\ahmad\GitHub\ChatMesssageBase2\AhmadBase\AhmadBase.Core\obj\Debug\net5.0\AhmadBase.Core.AssemblyInfoInputs.cache
+C:\Users\mahmoudzadeh\Desktop\ahmad\GitHub\ChatMesssageBase2\AhmadBase\AhmadBase.Core\obj\Debug\net5.0\AhmadBase.Core.AssemblyInfo.cs
+C:\Users\mahmoudzadeh\Desktop\ahmad\GitHub\ChatMesssageBase2\AhmadBase\AhmadBase.Core\obj\Debug\net5.0\AhmadBase.Core.csproj.CoreCompileInputs.cache
+C:\Users\mahmoudzadeh\Desktop\ahmad\GitHub\ChatMesssageBase2\AhmadBase\AhmadBase.Core\bin\Debug\net5.0\AhmadBase.Core.deps.json
+C:\Users\mahmoudzadeh\Desktop\ahmad\GitHub\ChatMesssageBase2\AhmadBase\AhmadBase.Core\bin\Debug\net5.0\AhmadBase.Core.dll
+C:\Users\mahmoudzadeh\Desktop\ahmad\GitHub\ChatMesssageBase2\AhmadBase\AhmadBase.Core\bin\Debug\net5.0\ref\AhmadBase.Core.dll
+C:\Users\mahmoudzadeh\Desktop\ahmad\GitHub\ChatMesssageBase2\AhmadBase\AhmadBase.Core\bin\Debug\net5.0\AhmadBase.Core.pdb
+C:\Users\mahmoudzadeh\Desktop\ahmad\GitHub\ChatMesssageBase2\AhmadBase\AhmadBase.Core\obj\Debug\net5.0\AhmadBase.Core.dll
+C:\Users\mahmoudzadeh\Desktop\ahmad\GitHub\ChatMesssageBase2\AhmadBase\AhmadBase.Core\obj\Debug\net5.0\ref\AhmadBase.Core.dll
+C:\Users\mahmoudzadeh\Desktop\ahmad\GitHub\ChatMesssageBase2\AhmadBase\AhmadBase.Core\obj\Debug\net5.0\AhmadBase.Core.pdb
+C:\Users\mahmoudzadeh\Desktop\ahmad\GitHub\ChatMesssageBase2\AhmadBase\AhmadBase.Core\bin\Debug\net5.0\AhmadBase.Inferastracter.dll
+C:\Users\mahmoudzadeh\Desktop\ahmad\GitHub\ChatMesssageBase2\AhmadBase\AhmadBase.Core\bin\Debug\net5.0\AhmadBase.Inferastracter.pdb
+C:\Users\mahmoudzadeh\Desktop\ahmad\GitHub\ChatMesssageBase2\AhmadBase\AhmadBase.Core\obj\Debug\net5.0\AhmadBase.Core.csproj.CopyComplete
