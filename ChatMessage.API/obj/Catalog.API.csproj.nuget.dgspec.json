@@ -1,0 +1,506 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\a.hamidi\\Downloads\\Session21\\DevTubeShop\\src\\Services\\DevTubeShop.ChatMesssage\\ChatMesssage.API\\ChatMesssage.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\a.hamidi\\Downloads\\Session21\\DevTubeShop\\src\\Services\\DevTubeShop.ChatMesssage\\ChatMesssage.API\\ChatMesssage.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\a.hamidi\\Downloads\\Session21\\DevTubeShop\\src\\Services\\DevTubeShop.ChatMesssage\\ChatMesssage.API\\ChatMesssage.API.csproj",
+        "projectName": "ChatMesssage.API",
+        "projectPath": "C:\\Users\\a.hamidi\\Downloads\\Session21\\DevTubeShop\\src\\Services\\DevTubeShop.ChatMesssage\\ChatMesssage.API\\ChatMesssage.API.csproj",
+        "packagesPath": "C:\\Users\\a.hamidi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\a.hamidi\\Downloads\\Session21\\DevTubeShop\\src\\Services\\DevTubeShop.ChatMesssage\\ChatMesssage.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\a.hamidi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://192.168.2.164/NugetServer/Nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\a.hamidi\\Downloads\\Session21\\DevTubeShop\\src\\Services\\DevTubeShop.ChatMesssage\\ChatMesssage.Domain.Application\\ChatMesssage.Application.csproj": {
+                "projectPath": "C:\\Users\\a.hamidi\\Downloads\\Session21\\DevTubeShop\\src\\Services\\DevTubeShop.ChatMesssage\\ChatMesssage.Domain.Application\\ChatMesssage.Application.csproj"
+              },
+              "C:\\Users\\a.hamidi\\Downloads\\Session21\\DevTubeShop\\src\\Services\\DevTubeShop.ChatMesssage\\ChatMesssage.Infrastructure.Database\\ChatMesssage.Infrastructure.Database.csproj": {
+                "projectPath": "C:\\Users\\a.hamidi\\Downloads\\Session21\\DevTubeShop\\src\\Services\\DevTubeShop.ChatMesssage\\ChatMesssage.Infrastructure.Database\\ChatMesssage.Infrastructure.Database.csproj"
+              },
+              "C:\\Users\\a.hamidi\\Downloads\\Session21\\DevTubeShop\\src\\Services\\DevTubeShop.ChatMesssage\\ChatMesssage.Infrastructure\\ChatMesssage.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\a.hamidi\\Downloads\\Session21\\DevTubeShop\\src\\Services\\DevTubeShop.ChatMesssage\\ChatMesssage.Infrastructure\\ChatMesssage.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapr.AspNetCore": {
+              "target": "Package",
+              "version": "[1.8.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.17.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\a.hamidi\\Downloads\\Session21\\DevTubeShop\\src\\Services\\DevTubeShop.ChatMesssage\\ChatMesssage.Domain.Application.Contract\\ChatMesssage.Application.Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\a.hamidi\\Downloads\\Session21\\DevTubeShop\\src\\Services\\DevTubeShop.ChatMesssage\\ChatMesssage.Domain.Application.Contract\\ChatMesssage.Application.Contract.csproj",
+        "projectName": "ChatMesssage.Application.Contract",
+        "projectPath": "C:\\Users\\a.hamidi\\Downloads\\Session21\\DevTubeShop\\src\\Services\\DevTubeShop.ChatMesssage\\ChatMesssage.Domain.Application.Contract\\ChatMesssage.Application.Contract.csproj",
+        "packagesPath": "C:\\Users\\a.hamidi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\a.hamidi\\Downloads\\Session21\\DevTubeShop\\src\\Services\\DevTubeShop.ChatMesssage\\ChatMesssage.Domain.Application.Contract\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\a.hamidi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://192.168.2.164/NugetServer/Nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\a.hamidi\\Downloads\\Session21\\DevTubeShop\\src\\Services\\DevTubeShop.ChatMesssage\\ChatMesssage.Domain.Application\\ChatMesssage.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\a.hamidi\\Downloads\\Session21\\DevTubeShop\\src\\Services\\DevTubeShop.ChatMesssage\\ChatMesssage.Domain.Application\\ChatMesssage.Application.csproj",
+        "projectName": "ChatMesssage.Application",
+        "projectPath": "C:\\Users\\a.hamidi\\Downloads\\Session21\\DevTubeShop\\src\\Services\\DevTubeShop.ChatMesssage\\ChatMesssage.Domain.Application\\ChatMesssage.Application.csproj",
+        "packagesPath": "C:\\Users\\a.hamidi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\a.hamidi\\Downloads\\Session21\\DevTubeShop\\src\\Services\\DevTubeShop.ChatMesssage\\ChatMesssage.Domain.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\a.hamidi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://192.168.2.164/NugetServer/Nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\a.hamidi\\Downloads\\Session21\\DevTubeShop\\src\\Services\\DevTubeShop.ChatMesssage\\ChatMesssage.Domain.Application.Contract\\ChatMesssage.Application.Contract.csproj": {
+                "projectPath": "C:\\Users\\a.hamidi\\Downloads\\Session21\\DevTubeShop\\src\\Services\\DevTubeShop.ChatMesssage\\ChatMesssage.Domain.Application.Contract\\ChatMesssage.Application.Contract.csproj"
+              },
+              "C:\\Users\\a.hamidi\\Downloads\\Session21\\DevTubeShop\\src\\Services\\DevTubeShop.ChatMesssage\\ChatMesssage.Domain.Core\\ChatMesssage.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\a.hamidi\\Downloads\\Session21\\DevTubeShop\\src\\Services\\DevTubeShop.ChatMesssage\\ChatMesssage.Domain.Core\\ChatMesssage.Domain.Core.csproj"
+              },
+              "C:\\Users\\a.hamidi\\Downloads\\Session21\\DevTubeShop\\src\\Services\\DevTubeShop.ChatMesssage\\ChatMesssage.Infrastructure.Database\\ChatMesssage.Infrastructure.Database.csproj": {
+                "projectPath": "C:\\Users\\a.hamidi\\Downloads\\Session21\\DevTubeShop\\src\\Services\\DevTubeShop.ChatMesssage\\ChatMesssage.Infrastructure.Database\\ChatMesssage.Infrastructure.Database.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.2.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.2.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.Extensions.Localization.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\a.hamidi\\Downloads\\Session21\\DevTubeShop\\src\\Services\\DevTubeShop.ChatMesssage\\ChatMesssage.Domain.Core\\ChatMesssage.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\a.hamidi\\Downloads\\Session21\\DevTubeShop\\src\\Services\\DevTubeShop.ChatMesssage\\ChatMesssage.Domain.Core\\ChatMesssage.Domain.Core.csproj",
+        "projectName": "ChatMesssage.Domain.Core",
+        "projectPath": "C:\\Users\\a.hamidi\\Downloads\\Session21\\DevTubeShop\\src\\Services\\DevTubeShop.ChatMesssage\\ChatMesssage.Domain.Core\\ChatMesssage.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\a.hamidi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\a.hamidi\\Downloads\\Session21\\DevTubeShop\\src\\Services\\DevTubeShop.ChatMesssage\\ChatMesssage.Domain.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\a.hamidi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://192.168.2.164/NugetServer/Nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Ardalis.Specification": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\a.hamidi\\Downloads\\Session21\\DevTubeShop\\src\\Services\\DevTubeShop.ChatMesssage\\ChatMesssage.Infrastructure.Database\\ChatMesssage.Infrastructure.Database.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\a.hamidi\\Downloads\\Session21\\DevTubeShop\\src\\Services\\DevTubeShop.ChatMesssage\\ChatMesssage.Infrastructure.Database\\ChatMesssage.Infrastructure.Database.csproj",
+        "projectName": "ChatMesssage.Infrastructure.Database",
+        "projectPath": "C:\\Users\\a.hamidi\\Downloads\\Session21\\DevTubeShop\\src\\Services\\DevTubeShop.ChatMesssage\\ChatMesssage.Infrastructure.Database\\ChatMesssage.Infrastructure.Database.csproj",
+        "packagesPath": "C:\\Users\\a.hamidi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\a.hamidi\\Downloads\\Session21\\DevTubeShop\\src\\Services\\DevTubeShop.ChatMesssage\\ChatMesssage.Infrastructure.Database\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\a.hamidi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://192.168.2.164/NugetServer/Nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\a.hamidi\\Downloads\\Session21\\DevTubeShop\\src\\Services\\DevTubeShop.ChatMesssage\\ChatMesssage.Domain.Core\\ChatMesssage.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\a.hamidi\\Downloads\\Session21\\DevTubeShop\\src\\Services\\DevTubeShop.ChatMesssage\\ChatMesssage.Domain.Core\\ChatMesssage.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\a.hamidi\\Downloads\\Session21\\DevTubeShop\\src\\Services\\DevTubeShop.ChatMesssage\\ChatMesssage.Infrastructure\\ChatMesssage.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\a.hamidi\\Downloads\\Session21\\DevTubeShop\\src\\Services\\DevTubeShop.ChatMesssage\\ChatMesssage.Infrastructure\\ChatMesssage.Infrastructure.csproj",
+        "projectName": "ChatMesssage.Infrastructure",
+        "projectPath": "C:\\Users\\a.hamidi\\Downloads\\Session21\\DevTubeShop\\src\\Services\\DevTubeShop.ChatMesssage\\ChatMesssage.Infrastructure\\ChatMesssage.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\a.hamidi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\a.hamidi\\Downloads\\Session21\\DevTubeShop\\src\\Services\\DevTubeShop.ChatMesssage\\ChatMesssage.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\a.hamidi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://192.168.2.164/NugetServer/Nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\a.hamidi\\Downloads\\Session21\\DevTubeShop\\src\\Services\\DevTubeShop.ChatMesssage\\ChatMesssage.Domain.Application\\ChatMesssage.Application.csproj": {
+                "projectPath": "C:\\Users\\a.hamidi\\Downloads\\Session21\\DevTubeShop\\src\\Services\\DevTubeShop.ChatMesssage\\ChatMesssage.Domain.Application\\ChatMesssage.Application.csproj"
+              },
+              "C:\\Users\\a.hamidi\\Downloads\\Session21\\DevTubeShop\\src\\Services\\DevTubeShop.ChatMesssage\\ChatMesssage.Infrastructure.Database\\ChatMesssage.Infrastructure.Database.csproj": {
+                "projectPath": "C:\\Users\\a.hamidi\\Downloads\\Session21\\DevTubeShop\\src\\Services\\DevTubeShop.ChatMesssage\\ChatMesssage.Infrastructure.Database\\ChatMesssage.Infrastructure.Database.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Ardalis.Specification": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "Ardalis.Specification.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "Mapster": {
+              "target": "Package",
+              "version": "[7.3.0, )"
+            },
+            "Microsoft.AspNetCore.Hosting": {
+              "target": "Package",
+              "version": "[2.2.7, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.StaticFiles": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.FileProviders.Physical": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
