@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ipohtxiswK73tHlEsYAKXQZzfTYAjVS+1xjVFgNOHRxtLz12f0oKQ7+iZD9yfpURTsLgPfhbCXOneTAtY/yz7A==",
+  "success": true,
+  "projectFilePath": "/Users/ahmadhfr/Documents/projects/ChatMessageDDD/Src/Application/Persistance/Persistance.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://192.168.2.164/nugetserver/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

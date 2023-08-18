@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ae7C66rl2PdsPqsct2h/Mm82IO0pYe85eShq5qFWAxanszE7XKmSxkO3X0iH4cgFQgJDfTotVzLoWStB5NSq9g==",
+  "success": true,
+  "projectFilePath": "/Users/ahmadhfr/Documents/projects/ChatMessageDDD/Src/Application/Application.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://192.168.2.164/nugetserver/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

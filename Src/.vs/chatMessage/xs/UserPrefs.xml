@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{1DA10159-5044-49E6-A9C3-E465759F66DD}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Src.Domain FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Src.Persistance FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Src.Api PreferredExecutionTarget="/Applications/Google Chrome.app" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Src.Infrastructure FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Src.Application FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Application/Domain/ThreadDomain/Thread.cs">
+    <Files>
+      <File FileName="Application/Class1.cs" />
+      <File FileName="Application/Infrastructure/Class1.cs" />
+      <File FileName="Application/Persistance/Class1.cs" />
+      <File FileName="Application/Domain/Base/AggregateRoot.cs" Line="31" Column="34" />
+      <File FileName="Application/Domain/Base/BusinessRuleException.cs" Line="5" Column="31" />
+      <File FileName="Application/Domain/Base/Entity.cs" Line="1" Column="1" />
+      <File FileName="Application/Domain/Base/IAggregateRoot.cs" Line="3" Column="36" />
+      <File FileName="Application/Domain/Base/StronglyTypedId.cs" Line="13" Column="42" />
+      <File FileName="Application/Domain/Base/ValueObject.cs" Line="1" Column="1" />
+      <File FileName="Application/Domain/UserDomain/User.cs" Line="10" Column="1" />
+      <File FileName="Application/Domain/ThreadDomain/Thread.cs" Line="18" Column="1" />
+      <File FileName="Application/Domain/ThreadDomain/Message.cs" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="chatMessage" expanded="True" selected="True">
+            <Node name="Src" expanded="True">
+              <Node name="Domain" expanded="True">
+                <Node name="ThreadDomain" expanded="True" />
+                <Node name="UserDomain" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
