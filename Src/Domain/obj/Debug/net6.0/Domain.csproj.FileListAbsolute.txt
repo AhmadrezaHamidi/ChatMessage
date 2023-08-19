@@ -1,0 +1,5 @@
+F:\ChatMessage\Src\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+F:\ChatMessage\Src\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\ChatMessage\Src\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+F:\ChatMessage\Src\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+F:\ChatMessage\Src\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache

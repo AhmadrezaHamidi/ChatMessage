@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "8i43HJkuXX0ohZFb1ad6nvsq50qnSjnFaVpkxIu3CKYtKem+o87BmNSeny0IBak3lj5zS1Qig5+nrnYxm3wcQw==",
+  "success": true,
+  "projectFilePath": "F:\\ChatMessage\\Src\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a.hamidi\\.nuget\\packages\\ardalis.guardclauses\\4.1.1\\ardalis.guardclauses.4.1.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://192.168.2.164/NugetServer/Nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

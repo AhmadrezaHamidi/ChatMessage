@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "09pNFnRRj/HoLUiorI96/RqFfmLCKg8NluExoObxf1jgp47rC2GdnQ7UpYZlWvYbwRck4yN7hOVF0g35zoAWSA==",
+  "success": true,
+  "projectFilePath": "F:\\ChatMessage\\Src\\WebApi\\WebApi.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://192.168.2.164/NugetServer/Nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

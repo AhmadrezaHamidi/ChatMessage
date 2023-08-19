@@ -1,0 +1,12 @@
+F:\ChatMessage\Src\Persistance\bin\Debug\net6.0\Persistance.deps.json
+F:\ChatMessage\Src\Persistance\bin\Debug\net6.0\Persistance.dll
+F:\ChatMessage\Src\Persistance\bin\Debug\net6.0\Persistance.pdb
+F:\ChatMessage\Src\Persistance\obj\Debug\net6.0\Persistance.csproj.AssemblyReference.cache
+F:\ChatMessage\Src\Persistance\obj\Debug\net6.0\Persistance.GeneratedMSBuildEditorConfig.editorconfig
+F:\ChatMessage\Src\Persistance\obj\Debug\net6.0\Persistance.AssemblyInfoInputs.cache
+F:\ChatMessage\Src\Persistance\obj\Debug\net6.0\Persistance.AssemblyInfo.cs
+F:\ChatMessage\Src\Persistance\obj\Debug\net6.0\Persistance.csproj.CoreCompileInputs.cache
+F:\ChatMessage\Src\Persistance\obj\Debug\net6.0\Persistance.dll
+F:\ChatMessage\Src\Persistance\obj\Debug\net6.0\refint\Persistance.dll
+F:\ChatMessage\Src\Persistance\obj\Debug\net6.0\Persistance.pdb
+F:\ChatMessage\Src\Persistance\obj\Debug\net6.0\ref\Persistance.dll
