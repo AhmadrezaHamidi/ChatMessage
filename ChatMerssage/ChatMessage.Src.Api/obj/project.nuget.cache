@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "kaVylAJtS9dhJxhRcNg4YuAF+pdEIJtrcQj/8LOBfaG6UywQnAXo8mQEpn6MoRJopC+RZy8nkLuoynBbA78+2A==",
+  "success": false,
+  "projectFilePath": "F:\\ChatMessage\\ChatMerssage\\ChatMessage.Src.Api\\ChatMessage.Src.Api.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1008",
+      "level": "Error",
+      "message": "Projects that use central package version management should not define the version on the PackageReference items but on the PackageVersion items: Microsoft.AspNetCore.OpenApi;Swashbuckle.AspNetCore."
+    }
+  ]
+}

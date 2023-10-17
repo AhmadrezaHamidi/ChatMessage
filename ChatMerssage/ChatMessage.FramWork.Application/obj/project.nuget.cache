@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "81p2yPje305WiQs8166v8UNzCk+Ys33NQzR9dMIs1+Iw9MRvsTr+QXnOCh0og2TOE+Z+nOGDieLKgzGQHjQ2Yw==",
+  "success": true,
+  "projectFilePath": "F:\\ChatMessage\\ChatMerssage\\ChatMessage.FramWork.Application\\ChatMessage.FramWork.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a.hamidi\\.nuget\\packages\\autofac\\7.1.0\\autofac.7.1.0.nupkg.sha512",
+    "C:\\Users\\a.hamidi\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

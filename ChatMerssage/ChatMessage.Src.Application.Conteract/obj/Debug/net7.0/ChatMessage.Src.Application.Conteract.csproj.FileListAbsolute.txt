@@ -1,0 +1,5 @@
+F:\ChatMessage\ChatMerssage\ChatMessage.Src.Application.Conteract\obj\Debug\net7.0\ChatMessage.Src.Application.Conteract.csproj.AssemblyReference.cache
+F:\ChatMessage\ChatMerssage\ChatMessage.Src.Application.Conteract\obj\Debug\net7.0\ChatMessage.Src.Application.Conteract.GeneratedMSBuildEditorConfig.editorconfig
+F:\ChatMessage\ChatMerssage\ChatMessage.Src.Application.Conteract\obj\Debug\net7.0\ChatMessage.Src.Application.Conteract.AssemblyInfoInputs.cache
+F:\ChatMessage\ChatMerssage\ChatMessage.Src.Application.Conteract\obj\Debug\net7.0\ChatMessage.Src.Application.Conteract.AssemblyInfo.cs
+F:\ChatMessage\ChatMerssage\ChatMessage.Src.Application.Conteract\obj\Debug\net7.0\ChatMessage.Src.Application.Conteract.csproj.CoreCompileInputs.cache

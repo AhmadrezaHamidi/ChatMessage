@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iHaj7sHOOf1TLNmeblPlUQP0+f3A8FQxFBjOq3G1C3eSW50jTuTG127QHtYQtMkqMNZ+BmCoOadIzFMcynsHqw==",
+  "success": true,
+  "projectFilePath": "F:\\ChatMessage\\ChatMerssage\\ChatMessage.Src.Application.Conteract\\ChatMessage.Src.Application.Conteract.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a.hamidi\\.nuget\\packages\\autofac\\7.1.0\\autofac.7.1.0.nupkg.sha512",
+    "C:\\Users\\a.hamidi\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

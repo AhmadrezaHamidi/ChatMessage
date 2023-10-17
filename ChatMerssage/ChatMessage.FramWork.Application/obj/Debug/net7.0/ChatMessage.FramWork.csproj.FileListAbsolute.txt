@@ -1,0 +1,5 @@
+F:\ChatMessage\ChatMerssage\ChatMessage.FramWork.Application\obj\Debug\net7.0\ChatMessage.FramWork.csproj.AssemblyReference.cache
+F:\ChatMessage\ChatMerssage\ChatMessage.FramWork.Application\obj\Debug\net7.0\ChatMessage.FramWork.GeneratedMSBuildEditorConfig.editorconfig
+F:\ChatMessage\ChatMerssage\ChatMessage.FramWork.Application\obj\Debug\net7.0\ChatMessage.FramWork.AssemblyInfoInputs.cache
+F:\ChatMessage\ChatMerssage\ChatMessage.FramWork.Application\obj\Debug\net7.0\ChatMessage.FramWork.AssemblyInfo.cs
+F:\ChatMessage\ChatMerssage\ChatMessage.FramWork.Application\obj\Debug\net7.0\ChatMessage.FramWork.csproj.CoreCompileInputs.cache

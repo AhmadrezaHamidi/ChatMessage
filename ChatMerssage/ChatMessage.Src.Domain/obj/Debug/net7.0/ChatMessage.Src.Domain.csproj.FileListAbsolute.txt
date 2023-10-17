@@ -1,0 +1,12 @@
+F:\ChatMessage\ChatMerssage\ChatMessage.Src.Domain\bin\Debug\net7.0\ChatMessage.Src.Domain.deps.json
+F:\ChatMessage\ChatMerssage\ChatMessage.Src.Domain\bin\Debug\net7.0\ChatMessage.Src.Domain.dll
+F:\ChatMessage\ChatMerssage\ChatMessage.Src.Domain\bin\Debug\net7.0\ChatMessage.Src.Domain.pdb
+F:\ChatMessage\ChatMerssage\ChatMessage.Src.Domain\obj\Debug\net7.0\ChatMessage.Src.Domain.csproj.AssemblyReference.cache
+F:\ChatMessage\ChatMerssage\ChatMessage.Src.Domain\obj\Debug\net7.0\ChatMessage.Src.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\ChatMessage\ChatMerssage\ChatMessage.Src.Domain\obj\Debug\net7.0\ChatMessage.Src.Domain.AssemblyInfoInputs.cache
+F:\ChatMessage\ChatMerssage\ChatMessage.Src.Domain\obj\Debug\net7.0\ChatMessage.Src.Domain.AssemblyInfo.cs
+F:\ChatMessage\ChatMerssage\ChatMessage.Src.Domain\obj\Debug\net7.0\ChatMessage.Src.Domain.csproj.CoreCompileInputs.cache
+F:\ChatMessage\ChatMerssage\ChatMessage.Src.Domain\obj\Debug\net7.0\ChatMessage.Src.Domain.dll
+F:\ChatMessage\ChatMerssage\ChatMessage.Src.Domain\obj\Debug\net7.0\refint\ChatMessage.Src.Domain.dll
+F:\ChatMessage\ChatMerssage\ChatMessage.Src.Domain\obj\Debug\net7.0\ChatMessage.Src.Domain.pdb
+F:\ChatMessage\ChatMerssage\ChatMessage.Src.Domain\obj\Debug\net7.0\ref\ChatMessage.Src.Domain.dll

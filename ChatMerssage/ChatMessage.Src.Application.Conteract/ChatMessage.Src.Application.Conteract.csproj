@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ChatMessage.FramWork.Application\ChatMessage.FramWork.csproj" />
+    <ProjectReference Include="..\ChatMessage.Src.Application\ChatMessage.Src.Application.csproj" />
+  </ItemGroup>
+
+</Project>

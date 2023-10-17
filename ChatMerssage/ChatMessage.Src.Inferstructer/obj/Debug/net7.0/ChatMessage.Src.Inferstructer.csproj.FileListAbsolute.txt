@@ -1,0 +1,15 @@
+F:\ChatMessage\ChatMerssage\ChatMessage.Src.Inferstructer\bin\Debug\net7.0\ChatMessage.Src.Inferstructer.deps.json
+F:\ChatMessage\ChatMerssage\ChatMessage.Src.Inferstructer\bin\Debug\net7.0\ChatMessage.Src.Inferstructer.dll
+F:\ChatMessage\ChatMerssage\ChatMessage.Src.Inferstructer\bin\Debug\net7.0\ChatMessage.Src.Inferstructer.pdb
+F:\ChatMessage\ChatMerssage\ChatMessage.Src.Inferstructer\bin\Debug\net7.0\ChatMessage.Src.Domain.dll
+F:\ChatMessage\ChatMerssage\ChatMessage.Src.Inferstructer\bin\Debug\net7.0\ChatMessage.Src.Domain.pdb
+F:\ChatMessage\ChatMerssage\ChatMessage.Src.Inferstructer\obj\Debug\net7.0\ChatMessage.Src.Inferstructer.csproj.AssemblyReference.cache
+F:\ChatMessage\ChatMerssage\ChatMessage.Src.Inferstructer\obj\Debug\net7.0\ChatMessage.Src.Inferstructer.GeneratedMSBuildEditorConfig.editorconfig
+F:\ChatMessage\ChatMerssage\ChatMessage.Src.Inferstructer\obj\Debug\net7.0\ChatMessage.Src.Inferstructer.AssemblyInfoInputs.cache
+F:\ChatMessage\ChatMerssage\ChatMessage.Src.Inferstructer\obj\Debug\net7.0\ChatMessage.Src.Inferstructer.AssemblyInfo.cs
+F:\ChatMessage\ChatMerssage\ChatMessage.Src.Inferstructer\obj\Debug\net7.0\ChatMessage.Src.Inferstructer.csproj.CoreCompileInputs.cache
+F:\ChatMessage\ChatMerssage\ChatMessage.Src.Inferstructer\obj\Debug\net7.0\ChatMessage.Src.Inferstructer.csproj.CopyComplete
+F:\ChatMessage\ChatMerssage\ChatMessage.Src.Inferstructer\obj\Debug\net7.0\ChatMessage.Src.Inferstructer.dll
+F:\ChatMessage\ChatMerssage\ChatMessage.Src.Inferstructer\obj\Debug\net7.0\refint\ChatMessage.Src.Inferstructer.dll
+F:\ChatMessage\ChatMerssage\ChatMessage.Src.Inferstructer\obj\Debug\net7.0\ChatMessage.Src.Inferstructer.pdb
+F:\ChatMessage\ChatMerssage\ChatMessage.Src.Inferstructer\obj\Debug\net7.0\ref\ChatMessage.Src.Inferstructer.dll

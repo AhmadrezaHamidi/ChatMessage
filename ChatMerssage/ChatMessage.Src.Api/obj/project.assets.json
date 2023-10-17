@@ -1,0 +1,134 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Microsoft.AspNetCore.OpenApi >= 7.0.3",
+      "Swashbuckle.AspNetCore >= 6.4.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\a.hamidi\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "F:\\ChatMessage\\ChatMerssage\\ChatMessage.Src.Api\\ChatMessage.Src.Api.csproj",
+      "projectName": "ChatMessage.Src.Api",
+      "projectPath": "F:\\ChatMessage\\ChatMerssage\\ChatMessage.Src.Api\\ChatMessage.Src.Api.csproj",
+      "packagesPath": "C:\\Users\\a.hamidi\\.nuget\\packages\\",
+      "outputPath": "F:\\ChatMessage\\ChatMerssage\\ChatMessage.Src.Api\\obj\\",
+      "projectStyle": "PackageReference",
+      "centralPackageVersionsManagementEnabled": true,
+      "configFilePaths": [
+        "F:\\ChatMessage\\NuGet.Config",
+        "C:\\Users\\a.hamidi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "F:\\ChatMessage\\ChatMerssage\\ChatMessage.Src.Application.Conteract\\ChatMessage.Src.Application.Conteract.csproj": {
+              "projectPath": "F:\\ChatMessage\\ChatMerssage\\ChatMessage.Src.Application.Conteract\\ChatMessage.Src.Application.Conteract.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "allWarningsAsErrors": true,
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.OpenApi": {
+            "target": "Package",
+            "version": "[7.0.3, )"
+          },
+          "Swashbuckle.AspNetCore": {
+            "target": "Package",
+            "version": "[6.4.0, )"
+          }
+        },
+        "centralPackageVersions": {
+          "Ardalis.ApiEndpoints": "[4.0.1, )",
+          "Ardalis.GuardClauses": "[4.0.1, )",
+          "Ardalis.HttpClientTestExtensions": "[3.0.0, )",
+          "Ardalis.ListStartupServices": "[1.1.4, )",
+          "Ardalis.Result": "[4.1.0, )",
+          "Ardalis.Result.AspNetCore": "[4.1.0, )",
+          "Ardalis.SmartEnum": "[2.1.0, )",
+          "Ardalis.Specification": "[6.1.0, )",
+          "Ardalis.Specification.EntityFrameworkCore": "[6.1.0, )",
+          "Autofac": "[7.1.0, )",
+          "Autofac.Extensions.DependencyInjection": "[8.0.0, )",
+          "coverlet.collector": "[3.2.0, )",
+          "FastEndpoints": "[5.3.2, )",
+          "FastEndpoints.ApiExplorer": "[2.0.1, )",
+          "FastEndpoints.Swagger": "[5.2.1, )",
+          "FastEndpoints.Swagger.Swashbuckle": "[2.0.1, )",
+          "MediatR": "[11.0.0, )",
+          "Microsoft.AspNetCore.Mvc.NewtonsoftJson": "[7.0.0, )",
+          "Microsoft.AspNetCore.Mvc.Testing": "[7.0.0, )",
+          "Microsoft.EntityFrameworkCore.InMemory": "[7.0.0, )",
+          "Microsoft.EntityFrameworkCore.Sqlite": "[7.0.0, )",
+          "Microsoft.EntityFrameworkCore.SqlServer": "[7.0.0, )",
+          "Microsoft.EntityFrameworkCore.Tools": "[7.0.0, )",
+          "Microsoft.NET.Test.Sdk": "[17.5.0-preview-20221003-04, )",
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "[7.0.0, )",
+          "Moq": "[4.18.2, )",
+          "Newtonsoft.Json": "[13.0.2-beta2, )",
+          "ReportGenerator": "[5.1.11, )",
+          "Serilog.AspNetCore": "[6.1.0-dev-00285, )",
+          "Serilog.Sinks.ApplicationInsights": "[4.0.1-dev-00040, )",
+          "SQLite": "[3.13.0, )",
+          "Swashbuckle.AspNetCore": "[6.4.0, )",
+          "Swashbuckle.AspNetCore.Annotations": "[6.4.0, )",
+          "xunit": "[2.4.2, )",
+          "xunit.runner.visualstudio": "[2.4.5, )"
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1008",
+      "level": "Error",
+      "message": "Projects that use central package version management should not define the version on the PackageReference items but on the PackageVersion items: Microsoft.AspNetCore.OpenApi;Swashbuckle.AspNetCore."
+    }
+  ]
+}
